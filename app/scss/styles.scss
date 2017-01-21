@@ -2,5 +2,9 @@
 @import "config";
 @import "mixins";
 
+body {
+  display: flex;
+}
+
 // STYLES GO HERE //
 @import "js";
