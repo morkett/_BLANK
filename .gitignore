@@ -61,5 +61,5 @@ Thumbs.db
 *.map
 
 # Ignore the Node Modules folder
-/node_modules
+#/node_modules
 /phantomas 
